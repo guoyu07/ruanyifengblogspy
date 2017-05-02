@@ -2,4 +2,4 @@
 
 采集blog,并保存pdf文件
 
-[njcx'blog](www.njcxs.cc)
+[njcx'blog](http://www.njcxs.cc)
